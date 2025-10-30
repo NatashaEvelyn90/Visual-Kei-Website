@@ -1,0 +1,17 @@
+
+.blkRose {
+    
+    width: 550px;
+    height: 600px;
+    position: fixed;
+    z-index: -1;
+    
+}
+
+.blkFlowers {
+    border: 5px solid black;
+}
+
+
+
+/* background: linear-gradient(to bottom left, #000000 7%, #549FA7 50%, #CFA89C 77%) no-repeat, z-index: 2; */
